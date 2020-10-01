@@ -1,0 +1,258 @@
+/* Color Scheme : Primary = #455a64, Light = #718792, Dark = #1c313a */
+
+/* *{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+} */
+
+body {
+  background-color: #718792;
+}
+
+.navbar {
+  background-color: #1c313a;
+}
+
+/* Buttons */
+
+.login_col button.signin-btn {
+  color: #ffffff;
+  background-color: #1c313a;
+  width: 100%;
+  margin-top: 500px;
+}
+
+.signup_container button.signin-btn {
+  color: #ffffff;
+  background-color: #1c313a;
+  width: 100%;
+  margin-top: 10%;
+}
+
+.radiobtn_container_outer {
+  padding: 5% 5% 5% 10%;
+}
+
+.radiobtn_container_inner {
+  margin: auto;
+}
+
+
+.addtocart_btn {
+  color: #ffffff;
+  background-color: #1c313a;
+  margin: auto;
+}
+
+.product_card {
+  padding: 10px 10px;
+}
+
+.product_container {
+  padding: 30px 30px;
+}
+
+.logout_btn {
+  color: #ffffff;
+  background-color: #1c313a;
+  margin: auto;
+}
+
+
+
+/* Containers and columns */
+
+.offers_col {
+  padding: 20px;
+}
+
+/* .login_col {
+  padding-top: 50px;
+} */
+
+.register_main_col {
+  background-color: #455a64;
+  padding: 0px;
+}
+
+.signup_col {
+  padding: 10px;
+}
+
+.signup_container {
+  padding: 15px 30px;
+  background-color: #ffffff;
+}
+
+.signup_main_col {
+  padding: 5%;
+}
+
+.login_outer_col {
+  background-color: #455a64;
+  padding: 0px;
+}
+
+.login_main_col {
+  padding: 5%;
+}
+
+.catalog_outer_col {
+  background-color: #455a64;
+  padding: 0px;
+}
+
+.footer_container_main {
+  background-color: #1c313a;
+  padding: 0px;
+}
+
+.footer_container_inner {
+  padding: 30px 20px 20px 20px;
+  /* text-align: center; */
+}
+
+.footer_email_container {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.profile_main_col {
+  background-color: #455a64;
+  padding: 0px;
+}
+
+.profile_inner_col {
+  padding-bottom: 60px;
+}
+
+.prof_detail_container {
+  padding: 90px 30px;
+  background-color: #ffffff;
+}
+
+.addpro_main_col {
+  background-color: #455a64;
+  padding: 0px;
+}
+
+.addpro_form_container {
+  padding: 90px 30px;
+  background-color: #ffffff;
+}
+
+.addpro_inner_col {
+  padding-bottom: 60px;
+}
+
+.load_more_btn_container {
+  padding-bottom: 30px;
+}
+
+/* Headings and Text */
+
+.primary_heading {
+  background-color: #455a64;
+}
+
+.primary_heading h2 {
+  padding: 20px;
+  color: #ffffff;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.footer_container_main h3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+.footer_container_main a {
+  color: #718792;
+}
+
+.footer_container_main h4 {
+  color: #718792;
+}
+.primary_heading h1 {
+  padding: 20px 20px 0px 20px;
+  color: #ffffff;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.signup_main_col h1 {
+  padding-top: 10%;
+  text-align: center;
+}
+
+.signup_main_col h5 {
+  padding-bottom: 10%;
+  text-align: center;
+  color: #718792;
+}
+
+.login_main_col h1 {
+  padding-top: 10%;
+  text-align: center;
+}
+
+.login_main_col h5 {
+  padding-bottom: 10%;
+  text-align: center;
+  color: #718792;
+}
+
+.product_name {
+  text-align: center;
+}
+
+.price_label {
+  text-align: center;
+}
+
+#idErrorSpan {
+  color: red;
+}
+
+.fab {
+  font-size: 40px;
+  margin-right: 20px;
+}
+
+/* Images */
+
+.category img {
+  padding: 20px 0px 20px 0px;
+  height: 99%;
+  width: 99%;
+}
+
+.category {
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #ffffff;
+}
+
+.offers img {
+  width: 99%;
+}
+
+.signup_container img {
+  width: 99%;
+}
+
+.footer_container_inner img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Tables */
+
+.prof_detail_container td {
+  padding: 20px 50px;
+}

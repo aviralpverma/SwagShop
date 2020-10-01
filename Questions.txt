@@ -1,0 +1,7 @@
+How to dynamically show the navbar in every page
+
+How to stop the login and  register pages from reloading and the entered data can be preserved
+
+How to display nested data arrays using loop
+
+How to use both js and php validations together?
